@@ -5,7 +5,9 @@ Amplitude calibration tool for software-defined radios. A GNU Radio-based progra
 
 ## For more information
 
-See the PDF end-user document in the same directory as this README.
+See the PDF end-user document in the same directory as this README:
 
-The documentation was created in Word and has not (yet) been converted to Markdown.
+https://github.com/dave-aragon/sdr-calibrator/blob/master/Calibration-Cityscape-USRP-20170707.pdf 
+
+That documentation was created in Word for the Cityscape project, and has not (yet) been converted to Markdown per conventional Github practice.
 
